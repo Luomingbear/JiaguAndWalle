@@ -1,0 +1,16 @@
+{
+    "lingsir": {
+        "keyStore": "D:\\JiaguAndWalle\\signs\\LocalLifeRelease.jks",
+        "alias": "buerlifekey",
+        "keyPassword": "zykj1234",
+        "aliasPassword": "zykj1234",
+        "buildToolVersion": "27.0.0"
+    },
+    "lingjia": {
+        "keyStore": "D:\\JiaguAndWalle\\signs\\lingsir.jks",
+        "alias": "lingsir",
+        "keyPassword": "lingsir123",
+        "aliasPassword": "lingsir123",
+        "buildToolVersion": "27.0.0"
+    }
+}
